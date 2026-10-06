@@ -1,1 +1,0 @@
-print("Helló profé pablitó")
